@@ -1,12 +1,12 @@
 {
-    "name": "TRANBAOTIN/mypackage",
+    "name": "tranbaotin/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
     ],
     "authors": [
         {
-            "name": "TRANBAOTIN",
+            "name": "tranbaotin",
             "email": "tranbaotin170@gmail.com"
         }
     ],
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TRANBAOTIN\\Mypackage\\": "src/"
+            "tranbaotin\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
